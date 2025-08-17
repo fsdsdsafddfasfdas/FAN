@@ -1,0 +1,22 @@
+[
+  {
+    "login": "example_account1",
+    "password": "example_password1",
+    "email": "example1@email.com",
+    "steam_guard": "shared_secret_here",
+    "games": ["CS2", "Dota 2", "PUBG"],
+    "status": "available",
+    "rental_price": 50,
+    "description": "Аккаунт с CS2 Prime"
+  },
+  {
+    "login": "example_account2",
+    "password": "example_password2",
+    "email": "example2@email.com",
+    "steam_guard": "shared_secret_here",
+    "games": ["GTA V", "Cyberpunk 2077"],
+    "status": "available",
+    "rental_price": 75,
+    "description": "Премиум аккаунт с топ играми"
+  }
+]
